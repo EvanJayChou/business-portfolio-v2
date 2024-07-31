@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.065e3af1.css",
+    "main.js": "/static/js/main.d2638461.js",
+    "static/js/787.753c5106.chunk.js": "/static/js/787.753c5106.chunk.js",
+    "static/media/Portrait.jpg": "/static/media/Portrait.e1fe968370049eeb1a1d.jpg",
+    "static/media/DataScienceIcon.png": "/static/media/DataScienceIcon.77f076efd53d3abc374b.png",
+    "static/media/GitHubIcon.png": "/static/media/GitHubIcon.95845fec685b42562337.png",
+    "static/media/Evan Chou Job Resume 2023 v4.pdf": "/static/media/Evan Chou Job Resume 2023 v4.7f76073a99864a142595.pdf",
+    "static/media/PCCLogo.png": "/static/media/PCCLogo.931e5019874b7c8584f3.png",
+    "static/media/DeepLearning.avif": "/static/media/DeepLearning.5554bf978380ebc510a3.avif",
+    "static/media/CallIcon.png": "/static/media/CallIcon.89cb858062ca9dcc30ed.png",
+    "static/media/LinkedInIcon.png": "/static/media/LinkedInIcon.032cf8a63be2f0f4d425.png",
+    "index.html": "/index.html",
+    "main.065e3af1.css.map": "/static/css/main.065e3af1.css.map",
+    "main.d2638461.js.map": "/static/js/main.d2638461.js.map",
+    "787.753c5106.chunk.js.map": "/static/js/787.753c5106.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.065e3af1.css",
+    "static/js/main.d2638461.js"
+  ]
+}
