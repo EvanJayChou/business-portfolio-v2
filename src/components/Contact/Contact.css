@@ -1,0 +1,44 @@
+#contact {
+    background-color: white;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap-reverse;
+}
+
+@media screen and (max-width: 1230px) {
+    #contact {
+        padding-top:100px;
+    }
+}
+
+#image img{
+    width: 550px;
+    height: auto;
+}
+
+#image, #contacts {
+    padding: 20px;
+}
+
+#contacts header {
+    font-size: 90px;
+    margin-bottom: 20px;
+}
+
+#contacts h1 {
+    font-size:40px;
+}
+
+#contacts img {
+    width: 70px;
+    height: 70px;
+}
+
+.doc {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: center;
+}

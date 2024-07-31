@@ -1,0 +1,39 @@
+nav {
+    position: absolute;
+    width: 100vw;
+    background-color: whitesmoke;
+    border-bottom: 5px solid black;
+}
+
+#nav ul {
+    text-transform: uppercase;
+    list-style: none;
+    font-size: 30px;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    gap: 30px;
+    margin-right: 30px;
+}
+
+nav h1 {
+    position: absolute;
+    font-size: 35px;
+    color: rgb(0, 0, 27);
+    text-transform: uppercase;
+}
+
+nav div {
+    width: 40vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 50px;
+}
+
+@media screen and (max-width: 767px) {
+    nav {
+        display: none;
+    }
+}

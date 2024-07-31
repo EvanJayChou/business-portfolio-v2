@@ -1,0 +1,85 @@
+#about main {
+    width: 100%;
+    background-color: rgb(0,0,27);
+    overflow-x:hidden;
+}
+
+#about {
+    width: 100vw;
+    overflow-x:hidden;
+}
+
+.title {
+    font-size: 90px;
+    color: whitesmoke;
+}
+
+#edTitle {
+    padding-left: 75px;
+}
+
+#descrip {
+    padding-left: 75px;
+    padding-right:75px;
+    width: 615px;
+    height: 775px;
+    margin-top: 135px;
+}
+
+#descrip h1 {
+    font-size: 25px;
+    color: whitesmoke;
+}
+
+#descrip h2 {
+    font-size:20px;
+    color:whitesmoke;
+}
+
+#dataPic {
+    width: 500px;
+    height: 500px;
+    padding: 60px;
+    margin-top: 125px;
+}
+
+#aboutSection {
+    display:flex;
+    flex-direction: row;
+}
+
+#education div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.school {
+    background-color: whitesmoke;
+    border-radius: 30px;
+    width: 500px;
+    height: 600px;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.school h1{
+    font-size: 35px;
+}
+
+.school h2 {
+    font-size: 30px;
+}
+
+.school h3 {
+    font-size: 20px;
+}
+
+.school img {
+    width:auto;
+    height: 130px;
+}
