@@ -20,7 +20,7 @@ const Home = () => {
                 <div id='name'>
                     <h2>Hi! My name is</h2>
                     <h1>Evan J. Chou</h1>
-                    <h2>Software Engineer, Data Scientist, <br/>Artificial Intelligence Engineer</h2>
+                    <h2>Aspiring AI/ML Engineer, Data Scientist,<br/>Robotics Systems Engineer</h2>
                 </div>
                 <div id='icons'>
                     <a href='https://www.linkedin.com/in/evanjchou/' target='_blank'><img src={require('../../assets/images/LinkedInIcon.png')}/></a>

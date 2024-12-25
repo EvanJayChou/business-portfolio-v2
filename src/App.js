@@ -11,16 +11,14 @@ import './App.css';
 function App() {
   return (
     <>
-      <Router>
-        <NavBar />
+        
         <Routes>
-          <Route path = '/' index element={<Home />} />
-          <Route path = '/about' element={<About />} />
-          <Route path = '/skills' element={<Skills/>}/>
-          <Route path = '/portfolio' element={<Portfolio/>}/>
-          <Route path = '/contact' element ={<Contact/>}/>
+          <Route exact path = '/' index element={<Home />} />
+          <Route exact path = '/about' element={<About />} />
+          <Route exact path = '/skills' element={<Skills/>}/>
+          <Route exact path = '/portfolio' element={<Portfolio/>}/>
+          <Route exact path = '/contact' element ={<Contact/>}/>
         </Routes>
-      </Router>
     </>
   );
 }

@@ -13,12 +13,11 @@ const About = () => {
                     <article id='descrip'>
                         <header className='title'>About Me!</header>
                         <h1>
-                            Hello! I'm Evan Chou, an enthusiastic and dedicated college student with a fervor for exploring the 
-                            intersection of hardware and software. I am eager to apply my skills and knowledge in machine learning and 
-                            software engineering to contribute meaningfully to cutting-edge technology projects. My interests extend to 
-                            quantum computing research and the latest innovations and solutions in artificial intelligence. With the aspirations 
-                            to become a Systems Engineer, AI Engineer, or Machine Learning Engineer, I am committed to continuous learning and 
-                            embracing challenges that propel me towards achieving these aspirations. 
+                        I'm Evan Chou, an enthusiastic and dedicated college student with a fervor for exploring the intersection of AI/ML in hardware and software. 
+                        I am eager to apply my skills and knowledge in machine learning engineering and data science to contribute meaningfully to cutting-edge technology projects. 
+                        My interests extend to AGI research and the latest innovations and solutions in multimodal AI agent systems. With the aspirations to become a AI/ML Engineer, 
+                        Robotics Systems Engineer, or Electrical/Electronics Engineer, I am committed to continuous learning and embracing challenges that propel me towards achieving 
+                        these aspirations.
                         </h1>
                         <h2>Designated in Los Angeles, California</h2>
                     </article>

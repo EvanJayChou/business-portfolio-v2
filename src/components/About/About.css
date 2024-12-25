@@ -4,6 +4,12 @@
     overflow-x:hidden;
 }
 
+#aboutSection {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
 #about {
     width: 100vw;
     overflow-x:hidden;
