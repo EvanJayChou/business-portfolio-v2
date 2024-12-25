@@ -1,7 +1,7 @@
 {
   "name": "business-portfolio",
-  "version": "0.1.0",
-  "homepage": "https://github.com/EvanJayChou/business-portfolio-v2",
+  "version": "1.0.0",
+  "homepage": "https://evanjaychou.github.io/business-portfolio-v2/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
