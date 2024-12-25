@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/business-portfolio-v2/static/css/main.ee00e8d7.css",
-    "main.js": "/business-portfolio-v2/static/js/main.4b31359c.js",
+    "main.js": "/business-portfolio-v2/static/js/main.0c909c83.js",
     "static/js/787.753c5106.chunk.js": "/business-portfolio-v2/static/js/787.753c5106.chunk.js",
     "static/media/Portrait.jpg": "/business-portfolio-v2/static/media/Portrait.e1fe968370049eeb1a1d.jpg",
     "static/media/DataScienceIcon.png": "/business-portfolio-v2/static/media/DataScienceIcon.77f076efd53d3abc374b.png",
@@ -9,15 +9,14 @@
     "static/media/Evan Chou Job Resume 2023 v4.pdf": "/business-portfolio-v2/static/media/Evan Chou Job Resume 2023 v4.7f76073a99864a142595.pdf",
     "static/media/PCCLogo.png": "/business-portfolio-v2/static/media/PCCLogo.931e5019874b7c8584f3.png",
     "static/media/DeepLearning.avif": "/business-portfolio-v2/static/media/DeepLearning.5554bf978380ebc510a3.avif",
-    "static/media/CallIcon.png": "/business-portfolio-v2/static/media/CallIcon.89cb858062ca9dcc30ed.png",
     "static/media/LinkedInIcon.png": "/business-portfolio-v2/static/media/LinkedInIcon.032cf8a63be2f0f4d425.png",
     "index.html": "/business-portfolio-v2/index.html",
     "main.ee00e8d7.css.map": "/business-portfolio-v2/static/css/main.ee00e8d7.css.map",
-    "main.4b31359c.js.map": "/business-portfolio-v2/static/js/main.4b31359c.js.map",
+    "main.0c909c83.js.map": "/business-portfolio-v2/static/js/main.0c909c83.js.map",
     "787.753c5106.chunk.js.map": "/business-portfolio-v2/static/js/787.753c5106.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee00e8d7.css",
-    "static/js/main.4b31359c.js"
+    "static/js/main.0c909c83.js"
   ]
 }
