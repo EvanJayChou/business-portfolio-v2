@@ -30,12 +30,12 @@ const About = () => {
                             <img src={require('../../assets/images/PCCLogo.png')}/>
                             <h1>Pasadena City College</h1>
                             <h2>A.S. in Electrical Engineering</h2>
-                            <h3>Coursework: Data Structures, Object-Oriented Programming, Engineering Circuits, Multivariable Calculus, Linear Algebra</h3>
+                            <h3>Coursework: Data Structures, Object-Oriented Programming, Engineering Circuits, Multivariable Calculus, Linear Algebra, Differential Equations</h3>
                         </section>
                         <section className='school'>
                             <h1>4-year University</h1>
                             <h2>B.S. in Electrical Engineering</h2>
-                            <h3>Concentration: Electronic Circuits & Systems</h3>
+                            <h3>Concentration: Robotics and Control Systems</h3>
                         </section>
                     </div>
                 </article>

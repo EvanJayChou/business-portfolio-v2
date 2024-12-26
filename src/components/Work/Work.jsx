@@ -1,7 +1,7 @@
 import React from 'react';
-import './Skills.css'
+import './Work.css'
 
-const Skills = () => {
+const Work = () => {
     return (
         <div>
 
@@ -9,4 +9,4 @@ const Skills = () => {
     );
 }
 
-export default Skills;
+export default Work;
